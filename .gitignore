@@ -1,0 +1,4 @@
+#忽视文件
+*.log
+# 忽视promble.txt
+promble.txt
